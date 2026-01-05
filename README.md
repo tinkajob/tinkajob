@@ -30,6 +30,7 @@ A simple clone of Jump King, built with Pygame, to practice Python, game develop
 👉 https://github.com/tinkajob/jump-king
 
 ## Current Goals
+- Learn about neural networks and AI (and make my own)
 - Improve my knowledge of Docker & containerized services
 - Upgrade my home server with more services
 - Write cleaner, well-documented code
