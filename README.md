@@ -13,6 +13,7 @@
 -  **Navidrome** – music server
 -  **Tailscale** – secure remote access
 -  **Syncthing** – file synchronization
+-  **Kavita** - ebooks
 -  **UFW**
 -  **Ubuntu Server**
 
